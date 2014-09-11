@@ -1,0 +1,4 @@
+HRKeyValueObserver
+==================
+
+KVO help class.
