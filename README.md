@@ -4,7 +4,10 @@ HRKeyValueObserver
 ## Description
 
 <br />
-A lightness KVO helper.
+A lightness KVO helper class.
+<br />
+Avoid excessive KVO code.
+
 
 ## Usage
 
